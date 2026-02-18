@@ -1,9 +1,5 @@
 # 🧩 Modos do Copiloto (Ask, Edit, Plan, Agent e Study)
 
-![dio/me](https://img.shields.io/badge/dio-me-ff2d55)
-![IA](https://img.shields.io/badge/IA-Assistente%20Inteligente-blue)
-![Prompt](https://img.shields.io/badge/Prompt-engineering-yellow)
-
 O Copiloto oferece diferentes **modos de interação** para você escolher como quer trabalhar: desde **tirar dúvidas sem mexer no código**, até **editar trechos específicos**, **planejar mudanças maiores** ou **delegar tarefas mais complexas** com um modo mais autônomo. A ideia é simples: você seleciona o modo que melhor combina com seu objetivo no momento e ganha velocidade com mais controle.
 
 ---
@@ -78,4 +74,6 @@ Funciona quase como um **tutor particular**.
 - **Plan** → planejar antes de agir  
 - **Edit** → mudar código  
 - **Agent** → executar tarefas grandes sozinho  
-- **Study** → entendimento ativo  
+- **Study** → entendimento ativo
+
+---
